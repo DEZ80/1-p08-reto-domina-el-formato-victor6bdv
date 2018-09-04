@@ -11,7 +11,7 @@ PC: 4000
 
 ## Actividad 2: (C) 24 Píxeles en grupos de 4 del mismo color
 ```
-21 43 77 22 00 C8 18 FE
+21 FF FF 22 00 C0 21 FF FF 22 01 C0 18 FE
 ```
 PC: 4000
 
